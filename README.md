@@ -1,11 +1,9 @@
 # Professional Certificate in Machine Learning
 
-### ⏱️ Duration  
-**42 Hours** (Self-Paced + In-Person Sessions + Capstone Project)
-
 ---
 
 ## 🧾 Course Overview
+**42 Hours** (Self-Paced + In-Person Sessions + Capstone Project)
 
 This course is designed to equip statisticians and researchers in financial institutions with practical and theoretical skills in **Machine Learning (ML)** using **R and Python**. It follows a structured learning path from foundational concepts to advanced applications in macroeconomics, banking, and financial markets.
 
