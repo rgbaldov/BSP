@@ -1,8 +1,4 @@
-# 📚 Professional Certificate in Machine Learning: R & Python  
-**DLSU School of Lifelong Learning**
-
-### 🎯 Target Participants  
-Statisticians and Researchers from **Bangko Sentral ng Pilipinas (BSP)**
+# Professional Certificate in Machine Learning
 
 ### ⏱️ Duration  
 **42 Hours** (Self-Paced + In-Person Sessions + Capstone Project)
@@ -21,7 +17,7 @@ Participants engage in:
 - A final capstone project tied to financial problem-solving
 
 ---
-## 👨‍🏫 Instructors
+## Instructors
 
 - **Dr. Robert Kerwin C. Billones**  
 - **Dr. Renann G. Baldovino**  
@@ -29,7 +25,7 @@ Participants engage in:
 
 ---
 
-## ✅ Learning Outcomes
+## Learning Outcomes
 
 By the end of this course, participants will be able to:
 
@@ -41,7 +37,7 @@ By the end of this course, participants will be able to:
 
 ---
 
-## 🧠 Course Modules
+## Course Modules
 
 ### Module 1: ML Fundamentals & Data Preprocessing  
 **(8 hours)**  
@@ -81,20 +77,20 @@ By the end of this course, participants will be able to:
 ---
 
 
-## 🤝 Contributions
+## Contributions
 
 This repository supports educational use and collaborative improvement. Feel free to fork, suggest additions, or submit pull requests for expanded datasets or code notebooks.
 
 ---
 
-## 🧑‍🏫 Maintained by  
+## Maintained by  
 **De La Salle University – School of Lifelong Learning**  
 In collaboration with domain experts in finance and machine learning.
 
 ---
 
 
-## ⚠️ Copyright and Disclaimer
+## Copyright and Disclaimer
 
 © 2025 De La Salle University – School of Lifelong Learning. All rights reserved.  
 This course material is intended solely for the enrolled participants of the DLSU-BSP Machine Learning Program.
