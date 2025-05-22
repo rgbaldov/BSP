@@ -1,0 +1,11 @@
+age,income,credit_score,loan_amount,loan_term,default_history,employment_type,interest_rate
+25,35000,720,10000,24,No,Salaried,7.5
+40,70000,800,20000,36,No,Self-employed,6.1
+33,42000,690,15000,48,Yes,Salaried,9
+50,55000,650,12000,12,Yes,Unemployed,10.5
+29,48000,705,16000,36,No,Salaried,8.2
+45,68000,780,18000,60,No,Self-employed,6.3
+38,52000,670,14000,24,Yes,Salaried,9.3
+31,40000,710,11000,36,No,Salaried,8
+60,62000,690,17000,48,No,Self-employed,6.8
+22,30000,640,9000,24,Yes,Unemployed,10.9
