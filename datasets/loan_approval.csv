@@ -1,11 +1,11 @@
-Age,Income,Credit Score,Loan Amount,Employment Type,Previous Defaults,Loan Status
-25,30000,680,10000,Salaried,No,Approved
-42,55000,640,15000,Self-employed,Yes,Not Approved
-35,40000,720,12000,Salaried,No,Approved
-28,25000,600,9000,Unemployed,Yes,Not Approved
-30,37000,700,10000,Salaried,No,Approved
-45,60000,750,16000,Self-employed,No,Approved
-50,65000,780,20000,Salaried,No,Approved
-33,42000,710,13000,Salaried,Yes,Not Approved
-29,31000,665,11000,Unemployed,Yes,Not Approved
-40,58000,730,14000,Self-employed,No,Approved
+age,income,credit_score,loan_amount,employment_type,loan_status
+25,30000,680,10000,salaried,no,approved
+42,55000,640,15000,self-employed,yes,not approved
+35,40000,720,12000,salaried,no,approved
+28,25000,600,9000,unemployed,yes,not approved
+30,37000,700,10000,salaried,no,approved
+45,60000,750,16000,self-employed,no,approved
+50,65000,780,20000,salaried,no,approved
+33,42000,710,13000,salaried,yes,not approved
+29,31000,665,11000,unemployed,yes,not approved
+40,58000,730,14000,self-employed,no,approved
